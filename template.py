@@ -13,11 +13,13 @@ list_of_files = [
     f"src/{project_name}/utils/common.py",
     f"src/{project_name}/pipeline/__init__.py",
     f"src/{project_name}/constants/__init__.py",
+    f"src/{project_name}/logger.py",
     "main.py",
     "app.py",
     "requirements.txt",
     "setup.py",
     "research/trials.ipynb",
+    "research/01_data_ingestion.ipynb",
     "templates/index.html"
 ]
 
